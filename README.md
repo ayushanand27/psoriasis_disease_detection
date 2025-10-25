@@ -1,0 +1,1 @@
+# psoriasis_disease_detection
