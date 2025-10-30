@@ -31,6 +31,8 @@ Optional: EfficientNet‑B7 + ensemble with DenseNet201 and test‑time augmenta
   - Test: psoriasis=176, normal=105
 
 If your unzip path differs, adjust the RAW path before splitting.
+
+
 dataset_link= https://www.kaggle.com/datasets/pallapurajkumar/psoriasis-skin-dataset
 ---
 
